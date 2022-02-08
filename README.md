@@ -1,5 +1,5 @@
 # VirusBot - Virus Generator Framework
-
+[![Python]]
 ## Installation on Kali Linux
 
 ```
