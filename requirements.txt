@@ -1,0 +1,2 @@
+#VirusBot Requirements#
+pyfiglet
