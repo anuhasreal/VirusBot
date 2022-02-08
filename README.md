@@ -1,6 +1,5 @@
 # VirusBot - Virus Generator Framework
 <!-- PROJECT SHIELDS -->
-[![Forks][forks-shield]][forks-url]
 
 ## Installation on Kali Linux
 
