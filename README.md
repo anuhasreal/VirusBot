@@ -16,6 +16,6 @@ python3 VirusBot.py
 ```
 sudo apt-get install git python3-pip
 git clone https://github.com/AnuhasRox/VirusBot.git
-cd routersploit
+cd VirusBot
 python3 -m pip install -r requirements.txt
 python3 VirusBot.py
